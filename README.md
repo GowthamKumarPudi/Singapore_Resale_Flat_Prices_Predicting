@@ -11,4 +11,4 @@ NAME : GOWTHAM KUMAR PUDI
 
 DOMAIN : DATA SCIENCE
 
-LINKED IN URL : 
+LINKED IN URL : https://www.linkedin.com/posts/gowtham-kumar-pudi07_machinelearning-datascience-modeldeployment-activity-7284064050865401856-qztI?utm_source=share&utm_medium=member_android
